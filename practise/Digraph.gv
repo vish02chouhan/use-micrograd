@@ -1,0 +1,8 @@
+digraph {
+	graph [rankdir=LR]
+	Start [shape=record]
+	Start -> Process1
+	Start -> Process2
+	Process1 -> End
+	Process2 -> End
+}
