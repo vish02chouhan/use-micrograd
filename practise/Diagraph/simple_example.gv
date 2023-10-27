@@ -1,0 +1,11 @@
+digraph SimpleExample {
+	A [label=A]
+	B [label=B]
+	C [label=C]
+	D [label=D]
+	A -> B
+	A -> C
+	B -> D
+	C -> D
+	D -> A
+}
