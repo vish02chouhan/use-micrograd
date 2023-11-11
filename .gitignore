@@ -3,3 +3,4 @@ node_modules
 runs
 venv
 *.csv
+data-sets/sentiment140.csv
