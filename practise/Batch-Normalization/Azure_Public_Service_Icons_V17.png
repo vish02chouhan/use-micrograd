@@ -1,0 +1,10 @@
+// Azure Data Flow
+digraph {
+	size="6,6"
+	node [shape=none]
+	A [label="" image="./10121-icon-service-Azure-Cosmos-DB.svg"]
+	B [label="" image="./10121-icon-service-Azure-Cosmos-DB.svg"]
+	C [label="" image="./10121-icon-service-Azure-Cosmos-DB.svg"]
+	A -> B
+	B -> C
+}

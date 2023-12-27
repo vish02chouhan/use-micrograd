@@ -1,0 +1,3 @@
+digraph G {
+	A [label="Node A" image="./output.png" shape=none]
+}
